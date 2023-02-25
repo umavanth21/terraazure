@@ -18,8 +18,8 @@ require (
 	github.com/satori/uuid v0.0.0-20160927100844-b061729afc07
 	github.com/terraform-providers/terraform-provider-azuread v0.6.1-0.20191007035844-361c0a206ad4
 	github.com/tombuildsstuff/giovanni v0.6.0
-	golang.org/x/crypto v0.0.0-20190820162420-60c769a6c586
-	golang.org/x/net v0.0.0-20190813141303-74dc4d7220e7
+	golang.org/x/crypto v0.1.0
+	golang.org/x/net v0.1.0
 	gopkg.in/yaml.v2 v2.2.2
 )
 
